@@ -7,6 +7,6 @@ package tarea2;
 public class Tarea2 {
 
     public static void main(String[] args) {
-        System.out.println("Primer commit de la tarea 2");
+        System.out.println("Segundo commit de la tarea 2");
     }    
 }
